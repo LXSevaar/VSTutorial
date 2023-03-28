@@ -3,3 +3,14 @@ Console.WriteLine("I will now merge this file with the main branch to display on
 
 Console.WriteLine("Hello.");
 
+string fName, lName;
+
+Console.Write("Please enter your first name here- ");
+
+fName = Console.ReadLine();
+
+Console.Write("Please enter your second name here- ");
+
+lName = Console.ReadLine();
+
+Console.WriteLine("Your full name is- " + fName + " " + lName);
