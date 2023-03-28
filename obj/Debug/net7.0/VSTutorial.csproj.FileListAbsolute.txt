@@ -1,0 +1,15 @@
+F:\VSTutorial\bin\Debug\net7.0\VSTutorial.exe
+F:\VSTutorial\bin\Debug\net7.0\VSTutorial.deps.json
+F:\VSTutorial\bin\Debug\net7.0\VSTutorial.runtimeconfig.json
+F:\VSTutorial\bin\Debug\net7.0\VSTutorial.dll
+F:\VSTutorial\bin\Debug\net7.0\VSTutorial.pdb
+F:\VSTutorial\obj\Debug\net7.0\VSTutorial.csproj.AssemblyReference.cache
+F:\VSTutorial\obj\Debug\net7.0\VSTutorial.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSTutorial\obj\Debug\net7.0\VSTutorial.AssemblyInfoInputs.cache
+F:\VSTutorial\obj\Debug\net7.0\VSTutorial.AssemblyInfo.cs
+F:\VSTutorial\obj\Debug\net7.0\VSTutorial.csproj.CoreCompileInputs.cache
+F:\VSTutorial\obj\Debug\net7.0\VSTutorial.dll
+F:\VSTutorial\obj\Debug\net7.0\refint\VSTutorial.dll
+F:\VSTutorial\obj\Debug\net7.0\VSTutorial.pdb
+F:\VSTutorial\obj\Debug\net7.0\VSTutorial.genruntimeconfig.cache
+F:\VSTutorial\obj\Debug\net7.0\ref\VSTutorial.dll
